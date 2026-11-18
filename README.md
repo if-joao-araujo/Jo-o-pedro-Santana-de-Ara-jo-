@@ -14,17 +14,15 @@ Focused on server-side development, relational databases, enterprise routing/swi
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 
 - **Back-End & Databases:** Java (OOP), PHP, Python scripting, and relational database modeling with MySQL.
 - **Networking:** Static routing, OSPF, EIGRP, RIP, VLANs, and Cisco CCNA labs.
-- **Offensive Security:** Reconnaissance, vulnerability assessment, web security (OWASP), and Python automation.
 
----
 
 ### 📊 GitHub Stats
 
-![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true)
+![João's GitHub Stats](https://github.com/if-joao-araujo)
 
 ---
 
