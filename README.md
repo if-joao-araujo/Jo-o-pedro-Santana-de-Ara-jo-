@@ -22,7 +22,9 @@ Focused on server-side development, relational databases, enterprise routing/swi
 
 ### 📊 GitHub Stats
 
-![João's GitHub Stats](https://github.com/if-joao-araujo)
+![João's GitHub Stats](### 📊 GitHub Stats
+
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=if-joao-araujo&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
