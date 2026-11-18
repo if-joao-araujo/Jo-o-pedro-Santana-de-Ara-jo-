@@ -1,10 +1,10 @@
-# Hi there, I'm João Pedro Santana 👋
+#João Pedro Santana de Araújo
+
 
 **Systems for Internet Student @ IFPE | Back-End, Networking & Offensive Security**
 
 Focused on server-side development, relational databases, enterprise routing/switching, and pentesting.
 
----
 
 ### 💻 Tech Stack & Focus Areas
 
