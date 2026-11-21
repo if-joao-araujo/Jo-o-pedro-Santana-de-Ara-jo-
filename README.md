@@ -1,12 +1,18 @@
-#João Pedro Santana de Araújo
+# João Pedro Santana de Araújo
 
+**Systems for Internet @ IFPE | Back-End, Networking & Offensive Security**
 
-**Systems for Internet Student @ IFPE | Back-End, Networking & Offensive Security**
+Building server-side applications, relational databases, and enterprise network infrastructures with a focus on security.
 
-Focused on server-side development, relational databases, enterprise routing/switching, and pentesting.
+---
 
+### 🌐 Featured Projects
 
-### 💻 Tech Stack & Focus Areas
+* **[Interconexão de Redes (ISR)](https://github.com/if-joao-araujo/ISR)** — Cisco Packet Tracer labs covering VLANs, 802.1Q Trunking, Rapid-PVST/STP, Layer 3 Switching, RIPv2, OSPF, EIGRP, and device hardening.
+
+---
+
+### 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -15,14 +21,12 @@ Focused on server-side development, relational databases, enterprise routing/swi
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+* **Back-End & Data:** Java (OOP), PHP, Python, and MySQL.
+* **Infrastructure & Security:** Routing & Switching, Linux administration, and pentesting fundamentals.
 
-- **Back-End & Databases:** Java (OOP), PHP, Python scripting, and relational database modeling with MySQL.
-- **Networking:** Static routing, OSPF, EIGRP, RIP, VLANs, and Cisco CCNA labs.
-
+---
 
 ### 📊 GitHub Stats
-
-(📊 GitHub Stats
 
 ![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=if-joao-araujo&show_icons=true&theme=tokyonight&hide_border=true)
 
